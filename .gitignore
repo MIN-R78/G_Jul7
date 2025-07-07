@@ -1,0 +1,33 @@
+# Environment variable file
+.env
+
+# Python virtual environments
+venv/
+.venv/
+venv310/
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE settings
+.idea/
+.vscode/
+
+# Local database files
+*.sqlite3
+*.db
+
+# macOS system file
+.DS_Store
+
+# Model and data folders (if you want to ignore them)
+models/
+data/
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
