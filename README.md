@@ -12,7 +12,7 @@ A toolkit for parsing PDF documents, generating text embeddings, and running ret
 
 # Getting Started
 1. Clone the repository:
-   git clone https://github.com/MIN-R78/Google_Jul7.git
+   git clone https://github.com/MIN-R78/G_Jul7.git
    cd Google-Jul7
 
 2. Install dependencies:
